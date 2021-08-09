@@ -1,5 +1,7 @@
 # Spring Boot demo with Vault
 
+Demo page created with https://start.spring.io/
+
 ## Start the server
 `./gradlew bootRun`
 
